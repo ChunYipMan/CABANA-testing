@@ -1,0 +1,13 @@
+name: External Test Suite
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  Begin-Tests:
+    runs-on: ubuntu-latest
+
+    steps:
+      - run: echo "Hello world!"
