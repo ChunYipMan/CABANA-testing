@@ -2,7 +2,7 @@ import json
 import requests
 
 ########################################################################################################
-# As we do not have a working frontend, this testing suite will be limited to integration tests
+# As we do not have a built frontend, this testing suite will be limited to integration tests
 # 
 # Staging TESTS
 # THE FOLLOWING TESTS CHECK THE STAGING API ENDPOINTS
